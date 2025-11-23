@@ -1,7 +1,8 @@
-## Hi there 👋 CodeNova5566!
+##Selam,ben CodeNova5566!
 
 
-- 🔭 Currently a student passionate about coding and web development.  
-- 🌱 I'm Learning Python, JavaScript, and HTML/CSS.  
-- 💡 I'm interested in building small projects and improving my skills.  
+
+- 🔭 Şu anda kodlama ve web geliştirme konusunda tutkulu bir öğrenciyim.
+- 🌱 Python, JavaScript ve HTML/CSS öğreniyorum.
+- 💡 Küçük projeler oluşturmak ve becerilerimi geliştirmekle ilgileniyorum. 
 
